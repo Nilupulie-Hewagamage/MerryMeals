@@ -8,7 +8,7 @@
 #### Registration Page
 ![image](https://github.com/Nilupulie-Hewagamage/MerryMeals/assets/137420146/44620aaf-2150-47e1-baf5-418c94ce4f9b)
 
-#### LOgin Page
+#### Login Page
 ![image](https://github.com/Nilupulie-Hewagamage/MerryMeals/assets/137420146/6f6f79be-ea7e-4b89-ad72-f395587d1a4b)
 
 #### Partner Registration Page
